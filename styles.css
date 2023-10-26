@@ -9,7 +9,7 @@
   border: none;
   padding: 0;
   box-sizing: border-box;
-  /* font-family: "Kumbh Sans", sans-serif; */
+  font-family: "Kumbh Sans", sans-serif;
 }
 
 :root {
@@ -114,6 +114,7 @@ body {
   font-size: 0.7rem;
   color: var(--orange);
   letter-spacing: 0.1rem;
+  text-transform: uppercase;
 }
 
 .product-description {
